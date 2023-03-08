@@ -211,18 +211,3 @@ def Start_end_date(start, end):
    
 if __name__ == '__main__':
     app.run(debug=True) 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-sqlalchemy-challenge/app.py at main · rvafaeis/sqlalchemy-challenge
